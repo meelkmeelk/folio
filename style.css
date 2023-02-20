@@ -9,10 +9,11 @@
   }
   
   /* Header/logo Title */
+  /* https://wallpaperaccess.com/full/1493551.jpg */
   .header {
     padding: 80px;
     text-align: center;
-    background-image: url("./Pictures/thewoods.jpg");
+    background-image: url("./Pictures/thewoods2.0.jpg");
     color: white ;
   }
   
